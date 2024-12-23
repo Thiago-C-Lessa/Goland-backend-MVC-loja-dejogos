@@ -9,6 +9,7 @@ Este backend foi desenvolvido para suportar o frontend de uma loja de jogos onli
 ## Tecnologias Utilizadas
 - Linguagem: Go
 - Arquitetura: MVC (Model-View-Controller)
+- MongoDB
 
 ## Como Executar
 1. Clone este repositório:
