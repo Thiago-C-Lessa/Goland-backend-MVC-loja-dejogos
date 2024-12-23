@@ -13,4 +13,4 @@ Este backend foi desenvolvido para suportar o frontend de uma loja de jogos onli
 ## Como Executar
 1. Clone este repositório:
    ```bash
-   git clone <URL do repositório>
+   git clone https://github.com/Thiago-C-Lessa/Goland-backend-loja-dejogos
