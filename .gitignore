@@ -24,4 +24,5 @@
 
 # Arquivos de teste
 *.test
-
+#env
+.env
